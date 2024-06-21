@@ -112,7 +112,7 @@ Python is particularly effective in data analysis, where tools like Pandas and M
 ### 3. Python Syntax and Semantics:
  ###  - Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.
 
-Certainly! Here's a simple Python program that prints "Hello, World!" to the console:
+Here's a simple Python program that prints "Hello, World!" to the console:
 
 ```python
 # Simple Hello, World! program in Python
